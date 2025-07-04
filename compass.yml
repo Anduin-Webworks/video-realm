@@ -1,0 +1,14 @@
+name: video-realm
+id: ari:cloud:compass:a9370046-464a-4000-8146-9d92acfbc728:component/70fcc8de-61e0-4324-b640-e292e7692006/bb923fcf-f8af-448e-bb38-0685dcd42dd8
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:css
+  - source:github
+customFields: null
